@@ -21,5 +21,6 @@ public class Parsing {
         }
     }
 }
-    
-
+    public double getdoc() {
+    	return this.doc;
+    }
